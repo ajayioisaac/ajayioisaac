@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajayioisaac
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning certified solution architect
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
